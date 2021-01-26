@@ -1,0 +1,36 @@
+body {
+    background-color: #ff0000;
+}
+
+h1 {
+    color: #0033cc;
+    font-family: 'Big Shoulders Inline Text', cursive;
+}
+
+h2 {
+    color: Black;
+    font-family: 'Nova Cut', cursive;
+
+}
+
+p {
+    color: white;
+
+}
+
+h3 {
+    color: #0033cc;
+    font-family: 'Sonsie One', cursive;
+}
+
+.hobbies{
+   display:flex;
+   justify-content:flex-start;
+   background-color:Blue;
+   border:5px dashed black;
+   padding:5px;
+}
+
+.heading{ 
+ text-align: center;
+}
